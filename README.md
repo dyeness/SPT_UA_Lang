@@ -48,14 +48,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4e138041-2c13-4553-9cd9-edec4199682d" alt="Скупник" width="50%">
+  <img src="https://github.com/user-attachments/assets/8b6a6adc-9836-4cb3-9c8d-cf47a7087b7d" alt="Скупник" width="50%">
+
 </p>
 <p align="center">
-  <em>Скупник</em>
+  <em>Скупник (Лахмiтник)</em>
 </p>
 
 <p align="center">
-  <img src="(https://github.com/user-attachments/assets/2deb457b-7b74-49ed-b5e9-9f0782d6ded7" alt="Головне меню" width="50%">
+  <img src="https://github.com/user-attachments/assets/2deb457b-7b74-49ed-b5e9-9f0782d6ded7" alt="Головне меню" width="50%">
 </p>
 <p align="center">
   <em>Головне меню</em>
